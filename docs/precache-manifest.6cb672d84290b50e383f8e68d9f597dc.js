@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/js/manifest.bb41d6d8.js"
   },
   {
-    "revision": "4073cc787f458bfa0101",
-    "url": "/js/app.4073cc78.js"
+    "revision": "73fb188b60c7da48ea19",
+    "url": "/js/app.73fb188b.js"
   },
   {
-    "revision": "c670846c592502a030fd9b46f8fc3ab6",
+    "revision": "0554b820b7e01b09c6fa7bae6706bdeb",
     "url": "/index.html"
   },
   {
-    "revision": "4073cc787f458bfa0101",
+    "revision": "73fb188b60c7da48ea19",
     "url": "/css/app.cca9b56c.css"
   }
 ];

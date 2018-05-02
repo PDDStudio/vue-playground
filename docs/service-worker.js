@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7a6e2d8944684cd53a4e430a446a27ac.js"
+  "/precache-manifest.6cb672d84290b50e383f8e68d9f597dc.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "sample-project"});
+workbox.core.setCacheNameDetails({prefix: "@pddstudio/vuejs-playground"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
