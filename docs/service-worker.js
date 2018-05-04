@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.649067901d643a3a91e9da102efdb7d6.js"
+  "/precache-manifest.0a69b74d05a12477e37c2a50cf669122.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "@pddstudio/vuejs-playground"});
