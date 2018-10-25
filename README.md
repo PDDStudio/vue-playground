@@ -1,5 +1,7 @@
 ## Vue.js Playground
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/PDDStudio/vuejs-playground.svg)](https://greenkeeper.io/)
+
 > Personal Playground using Vue.js, Vuetify & TypeScript
 
 **Note:**
